@@ -1,0 +1,6 @@
+com\netent\bookstore\BookRepository.class
+com\netent\bookstore\Book.class
+com\netent\bookstore\BookstoreApplication.class
+com\netent\bookstore\ResourceNotFoundException.class
+com\netent\bookstore\BookStoreController.class
+com\netent\bookstore\Post.class
